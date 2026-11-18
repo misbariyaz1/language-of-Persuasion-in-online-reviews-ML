@@ -23,7 +23,7 @@ What linguistic features make online reviews more persuasive, and can these feat
 **Amazon Fine Food Reviews** (568,454 reviews), publicly available on Kaggle:
 https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
-The original `Reviews.csv` is too large to upload to GitHub as one file, so it is split into 15 files (`review_data_1.csv` to `review_data_15.csv`). The script `combine_data.py` joins them back into `Reviews.csv`.
+The original `Reviews.csv` is too large to upload to GitHub as one file, so it is split into 15 files (`review_data_1.csv` to `review_data_15.csv`).
 
 Key variables:
 - `Text`: raw review body (primary input for NLP)
